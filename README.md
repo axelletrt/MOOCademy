@@ -1,24 +1,31 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hello, jeune moussaillon ! 
 
-Things you may want to cover:
+Bienvenue sur le projet de l'application "MOOCademy", 
 
-* Ruby version
+Rappel de l'énoncé : 
 
-* System dependencies
+"2.1. MOOCademy
+Tu dois créer une plateforme d'apprentissage en ligne. Il y a plein de cours. Chaque cours a un titre et une description. Enfin, chaque cours a plusieurs leçons, qui ont un titre et un body"
 
-* Configuration
+Petite astuce pour voir les bases de données d'un coup d'oeil :) 
+Tu peux ouvrir le fichier development.sqlite3 (ta base de données) dans DB Browser (un navigateur de bases de données) pour voir tes "tables" d'un coup d'oeil :) 
 
-* Database creation
 
-* Database initialization
+Merci à @Victorian Roques pour sa collaboration, best co-worker ever ! 
 
-* How to run the test suite
+Les autres membres de ma Team sont : 
 
-* Services (job queues, cache servers, search engines, etc.)
+@Nicolas G (Nicolas Gervais)
+@Stephane Mlv 
+@Arnaud (Arnaud Jeannin)
+@Ambroiseau(Ambroise Victor-Pujebet)
+@PaulDIP 
 
-* Deployment instructions
+:sunny:
 
-* ...
+
+
+
+
